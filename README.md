@@ -2,4 +2,4 @@
 
 :computer: A Crazy Ones Developer
 
-![Tiago Cabral github stats](https://github-readme-stats.vercel.app/api?username=tiag0cabral&show_icons=true)
+![Tiago Cabral's github stats](https://github-readme-stats.vercel.app/api?username=tiag0cabral&show_icons=true&theme=buefy)
