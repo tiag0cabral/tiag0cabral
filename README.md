@@ -2,4 +2,6 @@
 
 :computer: A Crazy Ones Developer
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiag0cabral&layout=compact)](https://github.com/tiag0cabral/github-readme-stats)
+
 ![Tiago Cabral's github stats](https://github-readme-stats.vercel.app/api?username=tiag0cabral&show_icons=true&theme=buefy)
