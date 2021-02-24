@@ -4,4 +4,21 @@ A Crazy Ones Developer
 
 ![Tiago Cabral's github stats](https://github-readme-stats.vercel.app/api?username=tiag0cabral&show_icons=true&theme=buefy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiag0cabral&layout=compact)](https://github.com/tiag0cabral/github-readme-stats)
+```sh
+always:
+	try {
+		your best and;
+			do {
+				what you need to do;
+			} while(you still have the time);
+			for(opportunity; comes; only once) {
+				so grab the chance;
+			}
+			if(you fail)
+				throw "all your worries";
+	} catch(yourself) {
+		everytime you fall;
+		and you know to Whom
+		you should goto always;
+	}
+```
