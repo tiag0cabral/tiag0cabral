@@ -4,6 +4,8 @@
 
 A Crazy Ones Developer
 
+![Tiago Cabral's github stats](https://github-readme-stats.vercel.app/api?username=tiag0cabral&show_icons=true&theme=buefy)
+
 ```sh
 always:
 	try {
@@ -22,5 +24,3 @@ always:
 		you should goto always;
 	}
 ```
-
-![Tiago Cabral's github stats](https://github-readme-stats.vercel.app/api?username=tiag0cabral&show_icons=true&theme=buefy)
