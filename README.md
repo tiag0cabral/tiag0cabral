@@ -21,6 +21,6 @@ always:
 	}
 ```
 
-![Tiago Cabral's github stats](https://github-readme-stats.vercel.app/api?username=tiag0cabral&show_icons=true&theme=buefy)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computer with Coffe">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computer with Coffe" style="position:relative;">
+![Tiago Cabral's github stats](https://github-readme-stats.vercel.app/api?username=tiag0cabral&show_icons=true&theme=buefy)
